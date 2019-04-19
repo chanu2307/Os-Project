@@ -11,10 +11,6 @@ void main()
  int bt[10],flag[10],ttat=0,twt=0;
  float awt,atat;
  
-clrscr();
-
-
- printf("\t\t ROUND ROBIN SCHEDULING); 
 printf("Enter the number of Processors \n");
  
 scanf("%d",&n);
